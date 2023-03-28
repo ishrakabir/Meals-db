@@ -6,7 +6,7 @@
 
   ---
   <img src="./img.png" width="800px">
-  
+  ---
 </div>
 
 
