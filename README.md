@@ -1,5 +1,3 @@
-kramdown:
-  input: Kramdown
 <div align="center">
   
 |<h1>**`Api`**</h1>|<h1>**`Live Site`**</h1>|
